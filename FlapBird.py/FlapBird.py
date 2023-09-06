@@ -62,7 +62,6 @@ class Passaro:
     def desenhar(self):
         # definir qual imagem do passaro vai usar
 
-
 class Cano:
     pass
 
