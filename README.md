@@ -1,2 +1,2 @@
-# Jogo_do_Flap.py
+# Jogo_do_FlapBird.py
 FlapBird em py.
